@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-一个用于分析宋明理学理气论或天道论究竟属于**理本论**还是**气本论（气学）**的 Trae Skill。
+一个用于分析宋明理学理气论或天道论究竟属于**理本论**还是**气本论（气学）**的 AI Skill / 智能体工具。
 
 ## 简介
 
@@ -24,24 +24,24 @@
 
 ## 安装方法
 
-### 方法一：直接复制（推荐）
+### 通用方法（适用于支持 Skill 的 AI 平台）
 
 1. 下载本仓库中的 `SKILL.md` 文件
-2. 将其放置到你的 Trae skills 目录：
-   - Windows: `%USERPROFILE%\.trae-cn\skills\liqi-analyzer\SKILL.md`
-   - macOS/Linux: `~/.trae/skills/liqi-analyzer/SKILL.md`
+2. 将其放置到你使用的 AI 平台 / IDE 的 skills 目录：
+   - **Trae**: `~/.trae/skills/liqi-analyzer/SKILL.md`（或 `~/.trae-cn/skills/liqi-analyzer/SKILL.md`）
+   - **其他平台**: 请参考对应平台的 Skill / 插件安装文档
 
-### 方法二：Git Clone
+### Git Clone
 
 ```bash
-git clone https://github.com/你的用户名/liqi-analyzer.git
+git clone https://github.com/liuhao1106/liqi-analyzer.git
 ```
 
-然后将 `SKILL.md` 复制到 Trae skills 目录。
+然后将 `SKILL.md` 复制到你的 AI 平台 skills 目录。
 
 ## 使用方法
 
-安装后，当你在 Trae 中提供任何宋明理学相关文本（尤其是涉及理气论、天道论、太极阴阳等议题），系统会自动调用此 Skill 进行分析。
+安装后，当你在支持 Skill 的 AI 平台中提供任何宋明理学相关文本（尤其是涉及理气论、天道论、太极阴阳等议题），系统会自动调用此 Skill 进行分析。
 
 ### 支持的文本类型
 

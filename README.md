@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-一个用于分析宋明理学理气论或天道论究竟属于**理本论**还是**气本论（气学）**的 AI Skill / 智能体工具。
+一个用于分析宋明理学理气论或天道论究竟属于**理本论**还是**气本论或气学**的 Trae Skill。
 
 ## 简介
 
